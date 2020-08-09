@@ -1,0 +1,21 @@
+.linktree{
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  justify-content: center;
+  height: 100%;
+  width: 40%;
+
+  button {
+    width: 100%;
+    margin-bottom: 40px;
+    font-weight: 500;
+    font-size: 16px;
+  }
+  i{
+    display: inline;
+    padding-right: 15px;
+    vertical-align: middle;
+    font-size: 22px;
+  }
+}

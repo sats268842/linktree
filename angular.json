@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "linktree"
+    }
+  },
+  "defaultProject": "linktree",
+  "cli": {
+    "analytics": false
+  }
 }
